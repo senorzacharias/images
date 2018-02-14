@@ -20,13 +20,17 @@ on behalf of para's using the administrator dropdown (para's only have access to
 ![Image of Phone Number Search](https://github.com/senorzacharias/images/blob/master/phonesearch.PNG)
 
 ### User Extension Search ###
-    -Loads table with all calls, logged and unlogged, for the para over the last 30 days
+Loads table with all calls, logged and unlogged, for an individual para over the last 30 days
+
 #### Para's ####
-> Can search only by their verified extension number
+Can search only by their verified extension number
+![Image of User Extension Search](https://github.com/senorzacharias/images/blob/master/userextensionsearch.PNG)
+
 #### Managers ####
-> The administrator dropdown lists all para's and allows you to search individually
+The administrator dropdown lists all para's and allows you to search individually
 		to see the para's call list and log calls on their behalf as the Proxy User
-		
+![Image of User Extension Search](https://github.com/senorzacharias/images/blob/master/userextensionsearch.PNG)
+
 #### Logging Calls ####
 -[X] Search by User Extension
 		-- UNlogged calls will show a red "X" and a Log Call button
