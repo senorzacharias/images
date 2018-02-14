@@ -6,6 +6,10 @@ Both the **File Number** and **Phone Number** searches allow for simple searches
 **User Extension** search allows para's to see what calls still need to be logged and log them; and managers can now log calls 
 on behalf of para's using the administrator dropdown (para's only have access to their own call history) as the Proxy User.
 
+### Navigate to Search for Calls Page ###
+- [X] From the main CallPop page, click on the blue 'Search Calls' button that is fixed to the right of the screen
+![Image of Search Calls button](https://github.com/senorzacharias/images/searchforcallsbtn)
+
 
 ### File Number Search ###
 	-Loads table with all logged calls for the given file number
