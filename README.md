@@ -13,7 +13,7 @@ on behalf of para's using the administrator dropdown (para's only have access to
 
 ### File Number Search ###
 	-Loads table with all logged calls for the given file number
-
+![Image of File Number Search](https://github.com/senorzacharias/images/blob/master/filenumbersearch.PNG)
 ### Phone Number Search ###
 	-Loads table with all logged calls for the given phone number
 
