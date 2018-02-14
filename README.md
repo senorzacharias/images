@@ -10,13 +10,14 @@ on behalf of para's using the administrator dropdown (para's only have access to
 - [X] Click on the blue 'Search Calls' button that is fixed to the right of the screen of the main CallPop page
 ![Image of Search Calls button](https://github.com/senorzacharias/images/blob/master/searchforcallbtn.PNG)
 
-
 ### File Number Search ###
 - [X] Enter a file number and click search to retrieve all logged calls for the given file number
+
 ![Image of File Number Search](https://github.com/senorzacharias/images/blob/master/filenumbersearch.PNG)
 
 ### Phone Number Search ###
 - [X] Enter a phone number to retrieve all logged calls for the given phone number
+
 ![Image of Phone Number Search](https://github.com/senorzacharias/images/blob/master/phonesearch.PNG)
 
 ### User Extension Search ###
