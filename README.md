@@ -17,7 +17,7 @@ on behalf of para's using the administrator dropdown (para's only have access to
 
 ### Phone Number Search ###
 - [X] Enter a phone number to retrieve all logged calls for the given phone number
-![Image of Phone Number Search](https://github.com/senorzacharias/images/blob/master/filenumbersearch.PNG)
+![Image of Phone Number Search](https://github.com/senorzacharias/images/blob/master/phonesearch.PNG)
 
 ### User Extension Search ###
     -Loads table with all calls, logged and unlogged, for the para over the last 30 days
